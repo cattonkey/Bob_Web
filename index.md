@@ -30,8 +30,8 @@ At Bob The Builder, we specialise in fixing systems, however we thought it is pa
 	
 	![Password Hash](https://i.imgur.com/B3KtSqg.png)
 	
-	Afterwhich, we clean up a bit, making the password easier to store
+	Afterwhich, we clean up a bit, encoding the password for simpler storage
 	
-	fEQhMjlgL3wzIXwyfCl8MzB8MzR8PCF8XFx8
+	**REDACTED**
 
 And thats it! Creating simple and memorable passwords is not that hard after all. We hope you that this was a good read, and should you have any computer problems, remember us, Bob The Builder :)
