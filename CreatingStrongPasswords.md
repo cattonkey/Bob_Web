@@ -17,7 +17,7 @@ Not necessarily.
 The comic below from xkcd suggests the revolutionary idea of using passphrases, which are easy to remember for humans, but hard for a computer to guess. 
 
 ![Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
-At Bob The Builder, we specialise in fixing systems, however we thought it is part of our responsibility to use our influence to encourage proper password hygiene too. As such, we would be sharing tips we have with regards to how we keep our systems at Bob The Builder safe from attacks.
+At Bob The Fixer, we specialise in fixing systems, however we thought it is part of our responsibility to use our influence to encourage proper password hygiene too. As such, we would be sharing tips we have with regards to how we keep our systems at Bob The Fixer safe from attacks.
 
 1. **Use a passphrase**
 	* Pick at least 5 random words probably based upon your hobbies, your interests, or use a random word generator such as [this site](https://untroubled.org/pwgen/ppgen.cgi)
@@ -26,7 +26,7 @@ At Bob The Builder, we specialise in fixing systems, however we thought it is pa
 	* Eg. pizgybirdbobakin
 3. **Make it so that no one can guess it**
 	
-	At Bob the Builder, we apply some special sauce when creating our passwords
+	At Bob the Fixer, we apply some special sauce when creating our passwords
 	
 	![Password Hash](https://i.imgur.com/B3KtSqg.png)
 	
@@ -34,4 +34,4 @@ At Bob The Builder, we specialise in fixing systems, however we thought it is pa
 	
 	**REDACTED**
 
-And thats it! Creating simple and memorable passwords is not that hard after all. We hope you that this was a good read, and should you have any computer problems, remember us, Bob The Builder :)
+And thats it! Creating simple and memorable passwords is not that hard after all. We hope you that this was a good read, and should you have any computer problems, remember us, Bob The Fixer :)
