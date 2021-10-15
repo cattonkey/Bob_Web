@@ -1,4 +1,6 @@
-# How to create strong passwords
+# How to create strong hard-coded OTP
+> Classification: Internal
+
 ## Introduction
 We use passwords in our daily lives to protect the things that matter most to us, such as our bank accounts, social media accounts and even corporate logins. Therefore, it is imperative that we practice basic cyber hygiene such as setting strong passwords, so as to reduce the chance that hackers would succeed in running brute force attacks against our accounts, leading to undesirable circumstances such as data theft.
 ## What should a secure password contain?
