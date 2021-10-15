@@ -26,7 +26,9 @@ At Bob The Fixer, we specialise in fixing systems, however we thought it is part
 	* Eg. PizzaGymBirdsBooksBaking
 2. **Remove letters at random from each word of the passphrase**
 	* Eg. pizgybirdbobakin
-3. **Make it so that no one can guess it**
+3. **Optional: Write down the number of characters taken from each word**
+	* Eg. 32425
+4. **Make it so that no one can guess it**
 	
 	At Bob the Fixer, we apply some special sauce when creating our passwords
 	
