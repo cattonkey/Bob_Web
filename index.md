@@ -34,6 +34,8 @@ At Bob The Fixer, we specialise in fixing systems, however we thought it is part
 	
 	![Password Hash](https://i.imgur.com/B3KtSqg.png)
 	
+	> As with every special sauce it is hardly that straightforward, if you are not getting it experiment more
+	
 	Afterwhich, we clean up a bit, encoding the password for simpler storage
 	
 	fEQhMjlgL3wzIXwyfCl8MzB8MzR8PCF8XFx8
