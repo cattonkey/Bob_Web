@@ -40,4 +40,4 @@ At Bob The Fixer, we specialise in fixing systems, however we thought it is part
 	
 	fEQhMjlgL3wzIXwyfCl8MzB8MzR8PCF8XFx8
 
-And thats it! Creating simple and memorable passwords is not that hard after all. We hope you that this was a good read, and should you have any computer problems, remember us, Bob The Fixer :)
+And thats it! Creating simple and memorable passwords is not that hard after all. We hope you find that this was a good read, and should you have any computer problems, remember us, Bob The Fixer :)
